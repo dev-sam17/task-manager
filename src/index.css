@@ -1,0 +1,15 @@
+body {
+  padding: 0;
+  font-family: "Roboto Mono", monospace;
+  background-image: url("/public/bg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100vh;
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+}
